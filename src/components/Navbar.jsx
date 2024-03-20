@@ -15,16 +15,16 @@ const Navbar = () => {
     <div className='w-full min-h-[50px] flex justify-between items-center absolute z-10 text-white bg-gray-700'>
         <ul className='hidden sm:flex px-4'>
             <li>
-                <a href="">Home</a>
+                <a href="/">Home</a>
             </li>
             <li>
-                <a href="">Gallery</a>
+                <a href="#gallery">Gallery</a>
             </li>
             <li>
-                <a href="">Details</a>
+                <a href="#deals">Details</a>
             </li>
             <li>
-                <a href="">Contact</a>
+                <a href="#contact">Contact</a>
             </li>
         </ul>
         <div className='flex justify-between'>
