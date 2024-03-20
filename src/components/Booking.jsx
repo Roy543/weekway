@@ -2,7 +2,7 @@ import React from "react";
 
 const Booking = () => {
   return (
-    <div id="deals" className="max-w-[1140px] w-full p-4 ">
+    <div id="deals" className="max-w-[1140px] w-full p-4">
       <form
         action=""
         className="lg:flex lg:justify-between w-full items-center"
